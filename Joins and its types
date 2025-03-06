@@ -1,3 +1,5 @@
+Q.1 Types of JOINS.
+
 1. LeftJoin -> A LEFT JOIN returns all records from the left table and only the matching records from the right table. 
    If there is no match, it returns NULL for the right table's columns.
 
