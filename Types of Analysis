@@ -1,0 +1,49 @@
+Q1. What is univariate analysis ?
+A1. Univariate analysis is a type of data analysis that focuses on one variable at a time.
+
+🔍 Purpose:
+To understand the basic characteristics of that single variable — like its distribution, central tendency (mean, median, mode), 
+spread (range, variance, standard deviation), and outliers.
+
+✅ Example:
+Suppose you have a dataset of student marks:
+
+marks = [50, 60, 65, 70, 80, 90, 100]
+Univariate analysis on marks may include:
+ Mean = 73.57
+ Median = 70
+ Mode = No repeated value
+ Standard Deviation = Measure of how spread out the values are
+ Histogram to visualize the distribution of marks
+
+*In Short* 
+Univariate analysis = analyzing one column (or feature) at a time from your dataset.  
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Q2. what is bivariate Analysis ?
+A2. 🔄 Bivariate analysis = analyzing two variables (columns) at the same time to find relationships or patterns between them.
+
+🔍 Purpose:
+To answer questions like:
+
+* Is there a correlation between Age and Salary?
+
+* How does Gender affect Purchase Amount?
+
+* Does Study Time affect Exam Score?
+
+⚡ In short:
+"Bivariate" = Two variables, analyzed together to understand how they interact.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Q3. what is numrical analysis?
+A3. Numerical analysis (in the context of data) refers to analyzing numeric data — that means columns (features) that contain numbers like age, salary, 
+marks, temperature, etc.
+
+🎯 Goal:
+To understand the behavior, distribution, trends, and relationships of numeric variables.
+
+💬 In short:
+Numerical analysis = Analyzing number-type columns to understand data patterns, variation, and trends.
